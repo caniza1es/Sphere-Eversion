@@ -44,4 +44,6 @@ Eversión analítica de una esfera utilizando superficies regladas
   manim -pql eversions/cylinder.py CylinderEversion
   ```
 
+[![Cylinder eversion](https://img.youtube.com/vi/8EWWhgiyN0w/0.jpg)](https://www.youtube.com/watch?v=8EWWhgiyN0w)
+
 
